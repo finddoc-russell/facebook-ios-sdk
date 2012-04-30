@@ -18,7 +18,7 @@
 #import "FBDialog.h"
 #import "Facebook.h"
 #import "FBFrictionlessRequestSettings.h"
-#import "SBJson.h"
+#import "JSON.h"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 // global
